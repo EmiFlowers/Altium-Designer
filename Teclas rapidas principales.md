@@ -6,8 +6,14 @@ Pero aqui estarán escritas algunas de las mas importantes o mas usadas comunmen
 > [!NOTE]
 > ### Teclas rapidas en archivos .PcbDoc
 > P + G - POLYGON POUR
+
 > T G H (en secuencia) - desaparecer visualmente POLYGON POUR
+
 > T G E - regresarla
+
 > T G A (una detrás de otra) - recalcular POLYGON POUR
+
 > Ctrl+Shift+click izquierdo sobre una via o pad - resaltar todos los pads y pistas de una via
+
 > L - view configuration
+
