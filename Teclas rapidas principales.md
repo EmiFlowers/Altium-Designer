@@ -18,4 +18,16 @@ Pero aqui estarán escritas algunas de las mas importantes o mas usadas comunmen
 
 > L - view configuration
 
->
+> Shift + S - Resaltar una sola capa
+
+> * - para cambiar entre top y bottom
+  
+> T + U - Actualizar el cambio de un componente en el esquematico
+
+> Ctrl + m - Crear una regla y revisar dimensiones entre centros de pads
+
+> M + C + click izq - Atraer un componente
+
+> 2 - Mientras ruteas sacar vias
+
+> L - mientras ruteas despues de sacar una via para cambiar de capa        
