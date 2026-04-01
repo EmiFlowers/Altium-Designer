@@ -20,7 +20,7 @@ Pero aqui estarán escritas algunas de las mas importantes o mas usadas comunmen
 
 > Shift + S - Resaltar una sola capa
 
-> * - para cambiar entre top y bottom
+> "*" - para cambiar entre top y bottom
   
 > T + U - Actualizar el cambio de un componente en el esquematico
 
