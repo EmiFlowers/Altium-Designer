@@ -11,3 +11,4 @@
 > Dispone de todas las funcionalidades necesarias para gestionar, acceder y sincronizar los datos de diseño de PCB 
 
 por lo que es una herramienta ideal para prevenir problemas derivados de estos datos, como retrasos en el diseño o incidencias relacionadas con la calidad. Además, con la plataforma basada en la nube `Altium 365`, podrás gestionar sin esfuerzo tus datos de diseño en un espacio seguro y sometido al control de versiones, con acceso a información actualizada sobre componentes y cadena de suministro
+eles was here:)
