@@ -5,7 +5,7 @@
 </div>
 
 > [!NOTE]
-> ### ¿Qué es Altium Designer?
+> ### ¿Qué es Altium Designer HOLA SOY ELES?
 > Altium Designer es una solución integral diseñada para todo el espectro de proyectos de PCB, desde un circuito básico hasta complejos sistemas multiplaca. Con las herramientas adecuadas para gestionar reglas de diseño, enrutamiento avanzado, rígido-flexible, HDI, alta velocidad o lo que se te ocurra, tu equipo puede trabajar con eficacia y evitar costes adicionales en software adicional, por muy avanzado que sea un proyecto.
 
 > Dispone de todas las funcionalidades necesarias para gestionar, acceder y sincronizar los datos de diseño de PCB 
