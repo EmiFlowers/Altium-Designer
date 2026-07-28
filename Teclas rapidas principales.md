@@ -13,7 +13,7 @@ Pero aqui estarán escritas algunas de las mas importantes o mas usadas comunmen
 
 > T G E - regresarla
 
-> T G A (una detrás de otra) - recalcular POLYGON POUR
+> T G A (en secuencia) - recalcular POLYGON POUR
 
 > Ctrl+Shift+click izquierdo sobre una via o pad - resaltar todos los pads y pistas de una via
 
@@ -29,6 +29,10 @@ Pero aqui estarán escritas algunas de las mas importantes o mas usadas comunmen
 
 > M + C + click izq - Atraer un componente
 
+> Ctrl + C - Empezar a rutear 
+
 > 2 - Mientras ruteas sacar vias
+
+> 3 - Mientras ruteas para cambiar el grosor de la pista
 
 > L - mientras ruteas despues de sacar una via para cambiar de capa        
